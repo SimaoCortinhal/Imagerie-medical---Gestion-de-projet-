@@ -1,4 +1,4 @@
-# Projet_CHPS0907
+# Projet_CHPS0907 - Gestion de Projet 
 Projet pour la formation Méthode AGILE, on a choisit d'utiliser le projet d'imagerie médicale comme base pour avoir un vrai projet de développement.
 Voici le lien du trello https://trello.com/invite/b/67c02a2504c8b84b98fb5d30/ATTI440ae144f18162c4524b2ed09819cdbd09A69254/chps0907-agilite
 ## Project Structure
